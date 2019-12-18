@@ -1,2 +1,2 @@
 # Utilibot
-Java, based extendable Discord bot.
+Java based extendable Discord bot.
