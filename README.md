@@ -4,7 +4,18 @@ JavaScript-based modular Discord bot. Nothing much more than that. This is a tem
 
 ### Usage
 
-Add the module files anywhere you feel like. Add their name, abreviated name, and file location to ``modules.json``. This file gets read at boot and is continuously modified. Make sure it is in the same directory as ``modman.js``.
+Add the module files anywhere you feel like. Add their internal name, proper name, and file location to ``modules.json``. 
+Like so:
+
+```
+"internal name here":{
+  "name":"proper name here",
+  "loc":"module file location"
+}
+```
+The "active" key you see in there will get added by the script.
+This file gets read at boot and is continuously modified. 
+Make sure it is in the same directory as ``modman.js``.
 
 ### Requirements
 
