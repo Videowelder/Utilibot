@@ -1,17 +1,17 @@
 {
 	"vc":{
 		"name":"voice_call_handler",
-		"active":true,
+		"active":false,
 		"loc":"./modules/vc.js"
 	},
 	"mod":{
 		"name":"moderator_tools",
-		"active":true,
+		"active":false,
 		"loc":"./modules/mod.js"
 	},
 	"food":{
 		"name":"foodrate",
-		"active":true,
+		"active":false,
 		"loc":"./modules/food.js"
 	}
 }
