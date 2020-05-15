@@ -1,1 +1,17 @@
-{"dm":{"name":"direct_message_handler","active":true,"loc":"./modules/dm.js"},"vc":{"name":"voice_call_handler","active":true,"loc":"./modules/vc.js"},"mod":{"name":"moderator_tools","active":true,"loc":"./modules/mod.js"},"food":{"name":"foodrate","active":true,"loc":"./modules/food.js"},"crs":{"name":"course_creation_tool","active":true,"loc":"./modules/courses.js"}}
+{
+	"vc":{
+		"name":"voice_call_handler",
+		"active":true,
+		"loc":"./modules/vc.js"
+	},
+	"mod":{
+		"name":"moderator_tools",
+		"active":true,
+		"loc":"./modules/mod.js"
+	},
+	"food":{
+		"name":"foodrate",
+		"active":true,
+		"loc":"./modules/food.js"
+	}
+}
