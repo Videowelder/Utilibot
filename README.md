@@ -1,3 +1,8 @@
+![Generic badge](https://img.shields.io/badge/Project%20Started-February%208th%202020-orange)
+![Generic badge](https://img.shields.io/badge/Project%20Ended-May%2014th%202020-orange)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Absolutely%20not-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+![GitHub issues](https://img.shields.io/github/issues/Videowelder/Utilibot)
+
 # Utilibot
 
 JavaScript-based modular Discord bot. Nothing much more than that. This is a template to build your own. Built for any platform that supports the screen command.
